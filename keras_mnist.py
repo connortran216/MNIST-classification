@@ -1,3 +1,5 @@
+#Author: Tuan Canh
+
 # keras
 from keras.utils.np_utils import to_categorical # convert to one-hot-encoding
 from keras.models import Sequential
