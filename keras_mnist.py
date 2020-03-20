@@ -1,4 +1,5 @@
 #Author: Tuan Canh
+#project: mnist
 
 # keras
 from keras.utils.np_utils import to_categorical # convert to one-hot-encoding
